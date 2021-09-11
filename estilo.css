@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	font-family: Arial;
+}
+
+li {
+ 	display: inline;
+ 	font-size: 20px;
+ }
+
+ a {
+ 	text-decoration: none;
+ 	color: blue;
+ }
+
+ a:hover {
+ 	text-decoration: all;
+ 	color: red;
+ }
+
+ footer {
+ 	border-top: 1px solid black;
+ 	margin-top: 50px;
+ 	font-weight: bold;
+ }
